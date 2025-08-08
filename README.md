@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arman Attar</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.herokuapp.com?font=Orbitron%26size=45%26pause=1000%26color=00D1F7%26center=true%26vCenter=true%26width=500%26height=70%26lines=ARMAN+ATTAR" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">A passionate AI & ML engineering student and web developer from India</h3>
 
-📫 <strong>How to reach me:</strong> <a href="mailto:ayanattar49@gmail.com">ayanattar49@gmail.com</a>
+<br>
+
+📫 How to reach me: <a href="mailto:ayanattar49@gmail.com">ayanattar49@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,11 +42,11 @@
 
 <h3>👨‍💻 About Me:</h3>
 <p>
-I'm a final-year <strong>AI & ML Engineering</strong> student at <strong>VSM Institute of Technology</strong> with a CGPA of <strong>8.89</strong>.  
+I'm a final-year <strong>AI & ML Engineering</strong> student at <strong>VSM Institute of Technology</strong> with a CGPA of <strong>8.89</strong>.
 As a passionate problem-solver and quick learner, I thrive at the intersection of technology and innovation.
 </p>
 <p>
-My technical foundation includes languages like <strong>Python</strong> and <strong>SQL</strong>, along with web development skills in <strong>HTML, CSS,</strong> and <strong>JavaScript</strong>.  
+My technical foundation includes languages like <strong>Python</strong> and <strong>SQL</strong>, along with web development skills in <strong>HTML, CSS,</strong> and <strong>JavaScript</strong>.
 I've applied these skills in practical settings, most notably through the <strong>Deloitte Technology Job Simulation</strong>, where I gained valuable experience in software development and data analysis.
 </p>
 <p>
