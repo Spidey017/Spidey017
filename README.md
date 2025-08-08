@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arman Attar</h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26size%3D45%26pause%3D1000%26color%3D00D1F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26height%3D70%26lines%3DARMAN%2BATTAR" alt="Typing SVG" /></a>
-</p>
 <h3 align="center">A passionate AI & ML engineering student and web developer from India</h3>
 
 <br>
