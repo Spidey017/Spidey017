@@ -19,8 +19,8 @@
     <a href="https://linkedin.com/in/arman-attar-b273b32b1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Arman%20Attar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/u/At7jDUiiln/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <a href="https://leetcode.com/u/Arman_Attar_/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Arman__Attar_-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href="https://github.com/Spidey017" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Spidey017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -175,7 +175,7 @@ Status: "Ready for Software Engineer & AI/ML Opportunities"
     </tr>
     <tr>
       <td>
-        <strong>✈️ TravelMate Booking Platform</strong><br />
+        <strong>✈ TravelMate Booking Platform</strong><br />
         <em>Full-Stack Architecture</em>
       </td>
       <td>
@@ -203,17 +203,29 @@ Status: "Ready for Software Engineer & AI/ML Opportunities"
 ### 📊 GitHub & Problem Solving Activity
 
 <div align="center">
+  <!-- Ultra-Reliable GitHub Streak & Contribution Cards -->
   <p align="center">
     <a href="https://github.com/Spidey017">
-      <img src="https://github-readme-stats.vercel.app/api?username=Spidey017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arman's GitHub Stats" width="48%" />
+      <img src="https://streak-stats.demolab.com?user=Spidey017&theme=tokyonight&hide_border=true&border_radius=8" alt="Arman's GitHub Streak" width="49%" />
     </a>
     <a href="https://github.com/Spidey017">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+      <img src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=Spidey017&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Arman's Top Languages" width="49%" />
     </a>
   </p>
+
+  <!-- Live LeetCode Dynamic Stats Card -->
   <p align="center">
-    <a href="https://leetcode.com/u/At7jDUiiln/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/At7jDUiiln?theme=dark&font=Inter" alt="Arman's LeetCode Stats" width="60%" />
+    <a href="https://leetcode.com/u/Arman_Attar_/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/Arman_Attar_?theme=dark&font=Inter&ext=activity" alt="Arman's LeetCode Stats" width="85%" />
+    </a>
+  </p>
+
+  <!-- Verified LeetCode Milestone Badges -->
+  <p align="center">
+    <a href="https://leetcode.com/u/Arman_Attar_/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problems Solved" />
+      <img src="https://img.shields.io/badge/Badge-100%20Days%20Streak-FE8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Days Badge" />
+      <img src="https://img.shields.io/badge/Badge-SQL%2050-10B981?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL 50 Badge" />
     </a>
   </p>
 </div>
@@ -225,6 +237,6 @@ Status: "Ready for Software Engineer & AI/ML Opportunities"
   <p>
     <a href="mailto:ayanattar49@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-ayanattar49%40gmail.com-6366F1?style=flat-square&logo=maildotru&logoColor=white" /></a>
     <a href="https://linkedin.com/in/arman-attar-b273b32b1"><img src="https://img.shields.io/badge/LinkedIn-Arman%20Attar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/At7jDUiiln/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Arman_Attar_/"><img src="https://img.shields.io/badge/LeetCode-Arman__Attar_-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
   </p>
 </div>
